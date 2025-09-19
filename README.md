@@ -5,7 +5,7 @@ This repository is for storing exercises and related code and documents for the 
 
 ## Updates
 
-- [2025-09-19] 📝 更新了 Exercise 1，对Question 1 & 2进行了作答
+- [2025-09-19] 📝 更新了 Exercise 2，对Question 1 & 2进行了作答
 - [2025-09-18] 🎉 新建仓库 Repo created!
 
 ## 目录结构
