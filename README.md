@@ -4,7 +4,7 @@
 This repository is for storing exercises and related code and documents for the Operating Systems course.
 
 ## Updates
-
+- [2025-10-09] 📝 完成了 Exercise 6，对Question 1 进行了作答
 - [2025-10-05] 📝 完成了 Exercise 5，对Question 1 & 2进行了作答
 - [2025-09-23] 📝 完成了 Exercise 3，对Question 1 & 2进行了作答
 - [2025-09-19] 📝 更新了 Exercise 2，对Question 1 & 2进行了作答
